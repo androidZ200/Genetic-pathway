@@ -1,0 +1,19 @@
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.pdb
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.csprojAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический_путь.Form1.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический_путь.Properties.Resources.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.csproj.GenerateResource.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.pdb
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.exe.config
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.exe
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\bin\Debug\генетический путь.pdb
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.csprojAssemblyReference.cache
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический_путь.Form1.resources
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический_путь.Properties.Resources.resources
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.csproj.GenerateResource.cache
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.exe
+E:\YandexDisk\YandexDisk\Projects\генетический путь\генетический путь\obj\Debug\генетический путь.pdb

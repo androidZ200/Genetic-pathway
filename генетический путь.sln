@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "генетический путь", "генетический путь\генетический путь.csproj", "{97B354FF-2B11-4B46-8A76-6D60A431C206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B354FF-2B11-4B46-8A76-6D60A431C206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B354FF-2B11-4B46-8A76-6D60A431C206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B354FF-2B11-4B46-8A76-6D60A431C206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B354FF-2B11-4B46-8A76-6D60A431C206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589CD67B-6467-4ED4-85E5-BFD2E26CEB50}
+	EndGlobalSection
+EndGlobal
